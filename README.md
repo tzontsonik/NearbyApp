@@ -5,6 +5,7 @@ Prenume: Simona
 Grupa: 341C2
 
 Proiect: aplicatie Android
+Arhiva finala : NearbyApp v final
 
 Resurse utilizate (documentatie):
 https://developer.android.com/studio/index.html
